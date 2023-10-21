@@ -1,0 +1,2 @@
+C:\Users\Hamouda\Desktop\GUC\Semester 7\Computer Graphics DMET502\Lab\Tasks\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
+C:\Users\Hamouda\Desktop\GUC\Semester 7\Computer Graphics DMET502\Assignment\DMET502projects\GraphicsAssignment1\Debug\OpenGL2DTemplate.exe
